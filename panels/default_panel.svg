@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11in"
+   height="8.5in"
+   viewBox="0 0 279.4 215.9"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="default_panel.svg">
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Checkerboard"
+       id="pattern6477"
+       patternTransform="matrix(10,0,0,-10,0,311.63225)" />
+    <pattern
+       inkscape:stockid="Checkerboard"
+       id="Checkerboard"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="2"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect5556"
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         style="fill:black;stroke:none" />
+      <rect
+         id="rect5558"
+         height="1"
+         width="1"
+         y="1"
+         x="1"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6404">
+      <stop
+         style="stop-color:#025d1a;stop-opacity:1"
+         offset="0"
+         id="stop6400" />
+      <stop
+         style="stop-color:#108f33;stop-opacity:1"
+         offset="1"
+         id="stop6402" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6273"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#00a432;stop-opacity:1;"
+         offset="0"
+         id="stop6271" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6348"
+       x="-0.002122323"
+       width="1.0042446"
+       y="-0.0027612751"
+       height="1.0055226">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.24428801"
+         id="feGaussianBlur6350" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6404"
+       id="radialGradient6408"
+       cx="139.7"
+       cy="98.429047"
+       fx="139.7"
+       fy="98.429047"
+       r="138.12488"
+       gradientTransform="matrix(1,0,0,0.2123412,0,77.528503)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0554609"
+     inkscape:cx="353.66857"
+     inkscape:cy="246.93292"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="2560"
+     inkscape:window-height="1395"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-81.1)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot58"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center;"><flowRegion
+         id="flowRegion60"
+         style="text-anchor:middle;text-align:center;"><rect
+           id="rect62"
+           width="1053.5682"
+           height="69.164101"
+           x="0.94745576"
+           y="-79.343483"
+           style="text-align:center;text-anchor:middle"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara64" /></flowRoot>    <rect
+       rx="8.2724438"
+       style="fill:none;stroke:#108f33;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:100;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6348)"
+       id="rect4700"
+       width="276.24976"
+       height="212.32626"
+       x="1.5751221"
+       y="82.886871"
+       ry="8.2724438" />
+    <g
+       id="g6448">
+      <rect
+         ry="0.25066575"
+         rx="0.25066575"
+         y="99.798836"
+         x="1.7547625"
+         height="14.790143"
+         width="275.74841"
+         id="rect6398"
+         style="fill:#108f33;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:100;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         rx="8.2724438"
+         style="fill:url(#radialGradient6408);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:100;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6384"
+         width="276.24976"
+         height="31.084362"
+         x="1.5751221"
+         y="82.886864"
+         ry="8.2724438" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot66"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.86409497"
+       transform="matrix(0.30619704,0,0,0.30619704,-21.481345,126.79497)"><flowRegion
+         id="flowRegion68"
+         style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.86409497"><rect
+           id="rect70"
+           width="1060.2003"
+           height="110.85205"
+           x="-3.7898138"
+           y="-123.87379"
+           style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.86409497" /></flowRegion><flowPara
+         id="flowPara72"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.84569931px;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:center;text-anchor:middle;fill:#fbfbfb;fill-opacity:1;stroke-width:0.86409497">Panel Title Here</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6450"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,81.1)"><flowRegion
+         id="flowRegion6452"><rect
+           id="rect6454"
+           width="542.89087"
+           height="539.10095"
+           x="47.372669"
+           y="186.89093" /></flowRegion><flowPara
+         id="flowPara6458"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">• Here is a point I want to make about the wonders of MPS language models</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara6468" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara6464">• This is another very erudite observation about ML</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara6466" /><flowPara
+         id="flowPara6460"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">• Looks like it's time to tensor the world!</flowPara><flowPara
+         id="flowPara6462"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRoot>    <path
+       sodipodi:type="star"
+       style="fill:url(#pattern6477);fill-opacity:1;stroke:#108f33;stroke-width:1.05553699;stroke-linejoin:round;stroke-miterlimit:100;stroke-dasharray:none;stroke-opacity:1"
+       id="path6470"
+       sodipodi:sides="5"
+       sodipodi:cx="225.05196"
+       sodipodi:cy="154.11218"
+       sodipodi:r1="30.916119"
+       sodipodi:r2="15.458059"
+       sodipodi:arg1="0.32175055"
+       sodipodi:arg2="0.95006909"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 254.38156,163.88872 -20.33878,2.79791 -9.22551,18.34078 -8.94601,-18.47873 -20.29396,-3.10637 14.80985,-14.2184 -3.31684,-20.26062 18.09899,9.69128 18.24404,-9.41538 -3.62406,20.20793 z"
+       inkscape:transform-center-x="0.072525855"
+       inkscape:transform-center-y="-5.8224383"
+       transform="matrix(1,0,0,-2.0194617,0,497.8566)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6527"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,2.1166667,81.1)"><flowRegion
+         id="flowRegion6529"><rect
+           id="rect6531"
+           width="385.61356"
+           height="167.69925"
+           x="641.42596"
+           y="614.19244" /></flowRegion><flowPara
+         id="flowPara6533"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Here's a caption for this pretty figure which took so very long to create</flowPara></flowRoot>  </g>
+</svg>
