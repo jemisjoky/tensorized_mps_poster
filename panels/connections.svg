@@ -18,7 +18,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="perspectives.svg">
+   sodipodi:docname="connections.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.83784803"
-     inkscape:cx="622.53177"
+     inkscape:cx="459.01763"
      inkscape:cy="205.26288"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -514,7 +514,7 @@
            width="1060.2003"
            id="rect70" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.08506775px;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:center;text-anchor:middle;fill:#fbfbfb;fill-opacity:1;stroke-width:0.86409497"
-         id="flowPara72">Promises and Challenges of Architecture</flowPara></flowRoot>    <text
+         id="flowPara72">Connections with Other Models</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.11388874px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="221.04047"
@@ -574,7 +574,8 @@
          id="tspan41776"
          sodipodi:role="line" /></text>
     <g
-       id="g48267">
+       id="g48267"
+       transform="translate(0,-1.0583333)">
       <path
          inkscape:connector-curvature="0"
          id="path41592"
