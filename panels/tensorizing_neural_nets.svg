@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.74632355"
-     inkscape:cx="-71.605898"
-     inkscape:cy="354.40394"
+     inkscape:zoom="1.4926471"
+     inkscape:cx="528"
+     inkscape:cy="408"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -270,7 +270,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -355,7 +355,7 @@
          id="flowPara27861">• Permits significant reduction in number of parameters, with negligible loss in performance</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.39999998;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="flowPara27869">• Neural net structure requires intermediate state vectors to be represented in dense format for application of elementwise nonlinearities (e.g. ReLU)</flowPara></flowRoot>    <g
-       id="g68599">
+       id="g45055">
       <g
          id="g39159"
          transform="translate(-7.9375041,23.812506)">
@@ -613,10 +613,10 @@
          sodipodi:nodetypes="czc"
          inkscape:connector-curvature="0"
          id="path40082"
-         d="m 164.96567,182.68923 c 3.68371,-4.71295 18.97272,-3.71747 25.81951,-7.83088 6.84679,-4.1134 6.68741,-14.40024 6.68741,-14.40024"
+         d="m 162.89297,190.28914 c 3.68371,-4.71295 19.07901,-8.18175 25.9258,-12.29516 6.84679,-4.1134 8.65382,-17.53587 8.65382,-17.53587"
          style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458332, 0.52916663;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker54076)" />
       <g
-         transform="matrix(0.554214,0,0,0.554214,74.371289,112.45814)"
+         transform="matrix(0.554214,0,0,0.554214,74.371289,121.45397)"
          ns1:version="0.11.0"
          ns1:texconverter="pdflatex"
          ns1:pdfconverter="pdf2svg"
