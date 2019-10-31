@@ -18,7 +18,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="tensorizing_neural_nets.svg">
+   sodipodi:docname="our_idea.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.74632355"
-     inkscape:cx="-71.605898"
-     inkscape:cy="354.40394"
+     inkscape:zoom="0.74632353"
+     inkscape:cx="528"
+     inkscape:cy="408"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -270,7 +270,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -336,25 +336,27 @@
            y="-123.87379"
            style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.86409497" /></flowRegion><flowPara
          id="flowPara72"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.08506775px;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:center;text-anchor:middle;fill:#fbfbfb;fill-opacity:1;stroke-width:0.86409497">Tensorizing Neural Networks</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.08506775px;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:center;text-anchor:middle;fill:#fbfbfb;fill-opacity:1;stroke-width:0.86409497">Our Tensorized MPS Architecture</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6450"
        style="font-style:normal;font-weight:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,2.1166671,91.683344)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,2.1166671,91.154177)"><flowRegion
          id="flowRegion6452"><rect
            id="rect6454"
            width="527.60657"
            height="655.18958"
            x="43.352966"
            y="140.66432" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.39999998;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.35000002;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="flowPara12691">• Neural nets layers can be <flowSpan
-   style="font-weight:bold;line-height:1.39999998"
-   id="flowSpan48028">tensorized</flowSpan> by expressing large weight matrices as MPO's [13]</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.39999998;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   style="font-weight:bold"
+   id="flowSpan48028">tensorized</flowSpan> by expressing large weight matrices in MPO format</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.35000002;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="flowPara27861">• Permits significant reduction in number of parameters, with negligible loss in performance</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.39999998;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="flowPara27869">• Neural net structure requires intermediate state vectors to be represented in dense format for application of elementwise nonlinearities (e.g. ReLU)</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.35000002;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara27863">• Neural net structure requires intermediate state vectors to be represented in dense format for application of elementwise nonlinearities (e.g. ReLU)</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.35000002;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara27869" /></flowRoot>    <g
        id="g68599">
       <g
          id="g39159"

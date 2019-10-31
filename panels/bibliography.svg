@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.74632353"
-     inkscape:cx="528"
-     inkscape:cy="408"
+     inkscape:zoom="1.0554609"
+     inkscape:cx="288.15764"
+     inkscape:cy="300.80788"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -239,7 +239,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -319,7 +319,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot68736"
-       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.79999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:14.66666685px;line-height:1.85;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,0,82.687501)"><flowRegion
          id="flowRegion68738"><rect
            id="rect68740"
@@ -370,9 +370,13 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
          id="flowPara70868">[11] Y Levine, D Yakira, N Cohen, and </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
-         id="flowPara71003">       A Shashua, ICLR (2018)</flowPara></flowRoot>    <flowRoot
+         id="flowPara71003">       A Shashua, ICLR (2018)</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
+         id="flowPara84687">[12] HJ Liao, JG Liu, L Wang, and </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
+         id="flowPara84689">        T Xiang, arXiv:1903.09650 (2019)</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,143.93337,82.687501)"
-       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.79999995;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:14.66666685px;line-height:1.85;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot70898"
        xml:space="preserve"><flowRegion
          id="flowRegion70874"><rect
@@ -381,10 +385,6 @@
            height="660.57141"
            width="486.38422"
            id="rect70872" /></flowRegion><flowPara
-         id="flowPara70896"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino">[12] HJ Liao, JG Liu, L Wang, and </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
-         id="flowPara71005">        T Xiang, arXiv:1903.09650 (2019)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
          id="flowPara71007">[13] A Novikov, D Podoprikhin, A </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
@@ -422,5 +422,11 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
          id="flowPara70981">[21] A Tjandra, S Sakti, and S Nakamura, </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
-         id="flowPara71035">        IJCNN (2017)</flowPara></flowRoot>  </g>
+         id="flowPara71035">        IJCNN (2017)</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
+         id="flowPara84677">[22] YH Wu, S Zhang, Y Zhang, </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
+         id="flowPara84679">        Y Bengio, and RR Salakhutdinov, </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.25;font-family:Palatino;-inkscape-font-specification:Palatino"
+         id="flowPara84685">        NIPS (2016)</flowPara></flowRoot>  </g>
 </svg>

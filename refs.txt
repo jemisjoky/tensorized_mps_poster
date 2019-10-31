@@ -40,6 +40,8 @@
 
 [21] A Tjandra, S Sakti, and S Nakamura, Compressing Recurrent Neural Network with Tensor Train, IJCNN (2017)
 
+[22] YH Wu, S Zhang, Y Zhang, Y Bengio, and RR Salakhutdinov, On multiplicative integration with recurrent neural networks, NIPS (2016)
+
 ### NO TITLES VERSION ###
 
 [1] TD Bradley, EM Stoudenmire, and J Terilla, arXiv:1910.07425 (2019)
@@ -63,3 +65,4 @@
 [19] EM Stoudenmire and DJ Schwab, NIPS (2016)
 [20] EM Stoudenmire, Quant. Sci. and Tech. 3, 3 (2018)
 [21] A Tjandra, S Sakti, and S Nakamura, IJCNN (2017)
+[22] YH Wu, S Zhang, Y Zhang, Y Bengio, and RR Salakhutdinov, NIPS (2016)

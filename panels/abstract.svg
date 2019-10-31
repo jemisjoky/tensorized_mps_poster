@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2079157"
-     inkscape:cx="696.31384"
+     inkscape:cx="399.93554"
      inkscape:cy="360.3375"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -134,7 +134,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -157,15 +157,15 @@
            width="1053.5682"
            id="rect62" /></flowRegion><flowPara
          id="flowPara64" /></flowRoot>    <rect
-       ry="8.8764544"
+       ry="8.2890987"
        y="82.886871"
        x="1.5751221"
        height="212.32626"
        width="276.24976"
        id="rect4700"
-       style="fill:none;stroke:#108f33;stroke-width:1.55379641;stroke-linejoin:round;stroke-miterlimit:100;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6348)"
+       style="fill:none;stroke:#108f33;stroke-width:1.50150919;stroke-linejoin:round;stroke-miterlimit:100;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6348)"
        rx="8.2724438"
-       transform="matrix(1,0,0,0.93195364,0,5.635803)" />
+       transform="matrix(1,0,0,0.99799076,0,0.16080459)" />
     <g
        id="g6448">
       <rect
@@ -216,21 +216,21 @@
          id="flowPara11610" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot12096"
-       style="font-style:normal;font-weight:normal;font-size:38.66666716px;line-height:0.80000001;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,2.8403968,81.1)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:38.66666794px;line-height:0.80000001;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,2.8403968,82.687501)"><flowRegion
          id="flowRegion12098"><rect
            id="rect12100"
            width="1023.5728"
            height="683.50183"
            x="6.6321735"
            y="126.57253" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
-         id="flowPara12204">Tensor networks have been used as theoretical frameworks for understanding deep learning architectures [2,3], as well as practical tools for compressing large neural networks via &quot;tensorization&quot; [??]. But tensor networks on their own can serve as expressive models for many machine learning tasks [?????], including unsupervised generative modeling [??]. Although general tensor networks involve large computational overhead, matrix product states (MPS) represent efficient tensor network models which are well-adapted for sequential data, with close ties to weighted finite automata [4].</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
-         id="flowPara12212">   </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
-         id="flowPara12206">Although MPS generative models have powerful capabilities not achievable in neural network approaches [ferris2012], their expressive power is limited by area laws upper-bounding the mutual information between disjoint regions of their output sequences [eisert2010]. Here we propose a novel MPS architecture which circumvents this limitation through the use of a tensorized hidden state space. Our model can be seen as a particular form of second-order recurrent neural network [rabusseau2019], but one possessing a hidden state space that grows exponentially in the allocated computational resources. Although still in its early development, we view this architecture as a novel merger of theoretical simplicity with significant expressive power, whose applications to language modeling are a subject of active investigation.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.14999998;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
+         id="flowPara12204">Tensor networks have been used as theoretical frameworks for understanding deep learning architectures [2, 3], as well as practical tools for compressing large neural networks via &quot;tensorization&quot; [13]. But tensor networks on their own can serve as expressive models for many machine learning tasks [14, 19, 20], including unsupervised generative modeling [10]. Although general tensor networks involve large computational overhead, matrix product states (MPS) represent efficient tensor network models which are well-adapted for sequential data, with close ties to weighted finite automata [4].</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.14999998;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
+         id="flowPara12212" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.14999998;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
+         id="flowPara12206">Although MPS generative models have powerful capabilities not achievable in neural network approaches [6], their expressive power is limited by area laws upper-bounding the mutual information between disjoint regions of their output sequences [5]. Here we propose a novel MPS architecture which circumvents this limitation through the use of a tensorized hidden state space. Our model can be seen as a  second-order recurrent neural network [17], but one possessing a number of hidden units that grows exponentially in the allocated computational resources. Although still in its early development, we view this architecture as a promising merger of theoretical simplicity and significant expressive power, whose applications to language modeling are a subject of active investigation.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.14999998;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
          id="flowPara12208" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot12106"
@@ -241,5 +241,5 @@
            height="188.7549"
            x="254.15681"
            y="7.1687217" /></flowRegion><flowPara
-         id="flowPara12112"></flowPara></flowRoot>  </g>
+         id="flowPara12112" /></flowRoot>  </g>
 </svg>
