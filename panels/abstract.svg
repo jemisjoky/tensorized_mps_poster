@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2079157"
-     inkscape:cx="399.93554"
+     inkscape:cx="286.51703"
      inkscape:cy="360.3375"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -225,11 +225,11 @@
            x="6.6321735"
            y="126.57253" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.14999998;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
-         id="flowPara12204">Tensor networks have been used as theoretical frameworks for understanding deep learning architectures [2, 3], as well as practical tools for compressing large neural networks via &quot;tensorization&quot; [13]. But tensor networks on their own can serve as expressive models for many machine learning tasks [14, 19, 20], including unsupervised generative modeling [10]. Although general tensor networks involve large computational overhead, matrix product states (MPS) represent efficient tensor network models which are well-adapted for sequential data, with close ties to weighted finite automata [4].</flowPara><flowPara
+         id="flowPara12204">Tensor networks have been used as theoretical frameworks for understanding deep learning architectures [2, 3], as well as practical tools for compressing large neural networks via &quot;tensorization&quot; [13]. But tensor networks on their own can serve as expressive models for many machine learning tasks [14, 19, 20], including unsupervised generative modeling [10]. Although general tensor networks impose a large computational overhead, matrix product states (MPS) represent efficient tensor network models which are well-adapted for sequential data, with close ties to weighted finite automata [4].</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.14999998;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
          id="flowPara12212" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.14999998;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
-         id="flowPara12206">Although MPS generative models have powerful capabilities not achievable in neural network approaches [6], their expressive power is limited by area laws upper-bounding the mutual information between disjoint regions of their output sequences [5]. Here we propose a novel MPS architecture which circumvents this limitation through the use of a tensorized hidden state space. Our model can be seen as a  second-order recurrent neural network [17], but one possessing a number of hidden units that grows exponentially in the allocated computational resources. Although still in its early development, we view this architecture as a promising merger of theoretical simplicity and significant expressive power, whose applications to language modeling are a subject of active investigation.</flowPara><flowPara
+         id="flowPara12206">Although MPS generative models have interesting capabilities not achievable in neural network models [6], their expressive power is limited by area laws upper-bounding the mutual information between disjoint regions of their output sequences [5]. Here we propose a novel MPS architecture which circumvents this limitation through the use of a tensorized hidden state space. Our model can be seen as a  second-order recurrent neural network [17], but one possessing a number of hidden units that grows exponentially in the allocated computational resources. Although still in its early development, we view this architecture as a promising merger of theoretical simplicity with significant expressive power, whose application to language modeling is a subject of active investigation.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.14999998;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:justify;text-anchor:start"
          id="flowPara12208" /></flowRoot>    <flowRoot
        xml:space="preserve"

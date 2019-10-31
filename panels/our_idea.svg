@@ -31,7 +31,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="408"
-     inkscape:cx="528"
+     inkscape:cx="344.4335"
      inkscape:zoom="0.74632353"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -555,10 +555,9 @@
            style="stroke-width:0.73883706" /></flowRegion><flowPara
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Palatino;-inkscape-font-specification:'Palatino Italic';stroke-width:0.73883706"
          id="flowPara67513">Dense MPS defined by:</flowPara></flowRoot>    <g
-       id="g41299"
-       transform="translate(0,-1.5875)">
+       id="g80588">
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,2.1166671,89.037509)"
+         transform="matrix(0.26458333,0,0,0.26458333,2.1166671,87.450009)"
          style="font-style:normal;font-weight:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          id="flowRoot6450"
          xml:space="preserve"><flowRegion
@@ -569,7 +568,7 @@
              width="474.01053"
              id="rect6454" /></flowRegion><flowPara
            id="flowPara29499"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.35000002;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Expressivity of a TI-MPS model is constrained by bond dimension <flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.35000002;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Expressivity of a TI-MPS model is constrained by its bond dimension <flowSpan
    id="flowSpan1165"
    style="font-style:italic">D</flowSpan>, which is in turn limited by </flowPara><flowPara
            id="flowPara41279"
@@ -584,7 +583,7 @@
          ns1:pdfconverter="pdf2svg"
          ns1:texconverter="pdflatex"
          ns1:version="0.11.0"
-         transform="matrix(0.935356,0,0,0.935356,-45.013477,49.404611)">
+         transform="matrix(0.935356,0,0,0.935356,-45.542644,47.817111)">
         <g
            id="g1551">
           <g
