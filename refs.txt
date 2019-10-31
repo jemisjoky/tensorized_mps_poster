@@ -6,36 +6,60 @@
 
 [4] M Droste, WK Manfred, and V Heiko (editors), Handbook of Weighted Automata, Springer (2009)
 
-[] J Eisert, M Cramer, and MB Plenio, Colloquium: Area Laws for the Entanglement Entropy, Rev. Mod. Phys. 82, (2010)
+[5] J Eisert, M Cramer, and MB Plenio, Colloquium: Area Laws for the Entanglement Entropy, Rev. Mod. Phys. 82, (2010)
 
-[] AJ Ferris and G Vidal, Perfect Sampling with Unitary Tensor Networks, Phys. Rev. B 85, 165146 (2012)
+[6] AJ Ferris and G Vidal, Perfect Sampling with Unitary Tensor Networks, Phys. Rev. B 85, 165146 (2012)
 
-[] AJ Gallego and R Orus, Language Design as Information Renormalization, arXiv:1708.01525 (2017)
+[7] AJ Gallego and R Orus, Language Design as Information Renormalization, arXiv:1708.01525 (2017)
 
-[] I Glasser, N Pancotti, and JI Cirac, Supervised Learning With Generalized Tensor Networks, arXiv:1806.05964 (2018)
+[8] I Glasser, N Pancotti, and JI Cirac, Supervised Learning With Generalized Tensor Networks, arXiv:1806.05964 (2018)
 
-[] I Glasser, R Sweke, N Pancotti, J Eisert, and JI Cirac, Expressive Power of Tensor Network Factorizations for Probabilistic Modeling, arXiv:1907.03741 (2019)
+[9] I Glasser, R Sweke, N Pancotti, J Eisert, and JI Cirac, Expressive Power of Tensor Network Factorizations for Probabilistic Modeling, arXiv:1907.03741 (2019)
 
-[] ZY Han, J Wang, H Fan, L Wang, and P Zhang, Unsupervised Generative Modeling Using Matrix Product States, Phys. Rev. X 8, 031012 (2018)
+[10] ZY Han, J Wang, H Fan, L Wang, and P Zhang, Unsupervised Generative Modeling Using Matrix Product States, Phys. Rev. X 8, 031012 (2018)
 
-[] Y Levine, D Yakira, N Cohen, and A Shashua, Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design, ICLR (2018)
+[11] Y Levine, D Yakira, N Cohen, and A Shashua, Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design, ICLR (2018)
 
-[] HJ Liao, JG Liu, L Wang, and T Xiang, Differentiable Programming Tensor Networks, arXiv:1903.09650 (2019)
+[12] HJ Liao, JG Liu, L Wang, and T Xiang, Differentiable Programming Tensor Networks, arXiv:1903.09650 (2019)
 
-[] A Novikov, D Podoprikhin, A Osokin, and DP Vetrov, Tensorizing Neural Networks, NIPS (2015)
+[13] A Novikov, D Podoprikhin, A Osokin, and DP Vetrov, Tensorizing Neural Networks, NIPS (2015)
 
-[] A Novikov, M Trofimov, and I Oseledets, Exponential Machines, ICLR (2016)
+[14] A Novikov, M Trofimov, and I Oseledets, Exponential Machines, ICLR (2016)
 
-[] V Pestun, J Terilla, and Y Vlassopoulos, Language as a Matrix Product State, arXiv:1711.01416 (2017)
+[15] V Pestun, J Terilla, and Y Vlassopoulos, Language as a Matrix Product State, arXiv:1711.01416 (2017)
 
-[] V Pestun and Y Vlassopoulos, Tensor Network Language Model, arXiv:1710.10248 (2017)
+[16] V Pestun and Y Vlassopoulos, Tensor Network Language Model, arXiv:1710.10248 (2017)
 
-[] G Rabusseau, TY Li and D Precup, Connecting Weighted Automata and Recurrent Neural Networks through Spectral Learning, AISTATS (2019)
+[17] G Rabusseau, TY Li and D Precup, Connecting Weighted Automata and Recurrent Neural Networks through Spectral Learning, AISTATS (2019)
 
-[] J Stokes and J Terilla, Probabilistic Modeling With Matrix Product States, arXiv:1902.06888 (2019)
+[18] J Stokes and J Terilla, Probabilistic Modeling With Matrix Product States, arXiv:1902.06888 (2019)
 
-[] EM Stoudenmire and DJ Schwab, Supervised Learning with Quantum-Inspired Tensor Networks, NIPS (2016)
+[19] EM Stoudenmire and DJ Schwab, Supervised Learning with Quantum-Inspired Tensor Networks, NIPS (2016)
 
-[] EM Stoudenmire. Learning Relevant Features Of Data With Multi-scale Tensor Networks, Quant. Sci. and Tech. 3, 3 (2018)
+[20] EM Stoudenmire, Learning Relevant Features Of Data With Multi-scale Tensor Networks, Quant. Sci. and Tech. 3, 3 (2018)
 
-[] A Tjandra, S Sakti, and S Nakamura, Compressing Recurrent Neural Network with Tensor Train, IJCNN (2017)
+[21] A Tjandra, S Sakti, and S Nakamura, Compressing Recurrent Neural Network with Tensor Train, IJCNN (2017)
+
+### NO TITLES VERSION ###
+
+[1] TD Bradley, EM Stoudenmire, and J Terilla, arXiv:1910.07425 (2019)
+[2] N Cohen, O Sharir, and A Shashua, COLT (2016)
+[3] N Cohen and A Shashua, ICLR (2017)
+[4] M Droste, WK Manfred, and V Heiko (editors), Handbook of Weighted Automata, Springer (2009)
+[5] J Eisert, M Cramer, and MB Plenio, Rev. Mod. Phys. 82, (2010)
+[6] AJ Ferris and G Vidal, Phys. Rev. B 85, 165146 (2012)
+[7] AJ Gallego and R Orus, arXiv:1708.01525 (2017)
+[8] I Glasser, N Pancotti, and JI Cirac, arXiv:1806.05964 (2018)
+[9] I Glasser, R Sweke, N Pancotti, J Eisert, and JI Cirac, arXiv:1907.03741 (2019)
+[10] ZY Han, J Wang, H Fan, L Wang, and P Zhang, Phys. Rev. X 8, 031012 (2018)
+[11] Y Levine, D Yakira, N Cohen, and A Shashua, ICLR (2018)
+[12] HJ Liao, JG Liu, L Wang, and T Xiang, arXiv:1903.09650 (2019)
+[13] A Novikov, D Podoprikhin, A Osokin, and DP Vetrov, NIPS (2015)
+[14] A Novikov, M Trofimov, and I Oseledets, ICLR (2016)
+[15] V Pestun, J Terilla, and Y Vlassopoulos, arXiv:1711.01416 (2017)
+[16] V Pestun and Y Vlassopoulos, arXiv:1710.10248 (2017)
+[17] G Rabusseau, TY Li and D Precup, AISTATS (2019)
+[18] J Stokes and J Terilla, arXiv:1902.06888 (2019)
+[19] EM Stoudenmire and DJ Schwab, NIPS (2016)
+[20] EM Stoudenmire, Quant. Sci. and Tech. 3, 3 (2018)
+[21] A Tjandra, S Sakti, and S Nakamura, IJCNN (2017)
